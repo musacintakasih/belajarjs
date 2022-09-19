@@ -1,4 +1,6 @@
-let nama="adit";
-let alamat='semarang';
-let NIK='01234' ${nama};
-let profil=nama+alamat;
+let nama ="10";
+let alamat ='20';
+let NIK=`000000089 ${nama}`;
+
+let profil= nama + alamat;
+console.log(NIK);

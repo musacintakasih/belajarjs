@@ -1,8 +1,10 @@
-var nama='musa';
-let usia=30;
-const telp=01234
-nik='012345';
+var nama='musa;
+
+const telp=12;
+nik='0000001';
 
 function hitung() {
-    let usia=30'
+    let usia=30;
 }
+
+console.log(usia);
